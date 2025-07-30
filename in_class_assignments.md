@@ -30,13 +30,7 @@ We'll create a table to hold student data that should contain the following fiel
 -- Practice inserting more students
 ```
 
-### Modify Your Table
-```sql
--- Add a new column to your Students table
--- Update the new column with data for your students
--- View the updated table structure
--- View the data with the new column
-```
+
 
 ---
 

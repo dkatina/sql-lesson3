@@ -1,0 +1,7 @@
+SQL
+
+DQL - Data Query Languange (querying our database for data)
+
+DDL - Data Definition Language (Defininng and manipulating our databases and tables)
+
+DML - Data Manipulation Language (Add, Updating, and Deleting data)
