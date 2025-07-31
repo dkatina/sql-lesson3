@@ -53,3 +53,4 @@ SELECT * FROM books4;
 -- DROP TABLE name_of_table
 
 DROP TABLE books3;
+
